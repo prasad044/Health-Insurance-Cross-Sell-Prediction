@@ -13,7 +13,3 @@
 **📱Objective:**   
     
 To predict, whether the customer would be interested in Vehicle insurance
-
-## Dataset 📔
-
-[Kaggle link: Health-Insurance-Cross-Sell_prediction]([https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction/data))
